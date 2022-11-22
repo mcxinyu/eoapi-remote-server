@@ -42,3 +42,6 @@ lerna-debug.log*
 .env.prodction
 docker-compose.dev.yaml
 Dockerfile.dev
+
+.yarn
+.yarnrc.yml
